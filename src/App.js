@@ -101,7 +101,7 @@ function App() {
           <Card.Content extra>
             <a>
               <Icon name='user' />
-              {repos} Repos
+              {repos} Repositories
             </a>
           </Card.Content>
       </Card>
